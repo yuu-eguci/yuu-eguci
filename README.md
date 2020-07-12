@@ -1,7 +1,7 @@
 yuu-eguci
 ===
 
-![](https://github.githubassets.com/images/mona-whisper.gif)
+![](https://gist.githubusercontent.com/yuu-eguci/5dfba60c39d10740e4450ac8851218c0/raw/75866d5c08d51161bf3e4c9c98b9f79e4bfc346f/never-stay-dog.gif)
 
 - 🇯🇵 駆け出しパイソニスタ
 - 🇬🇧 Amateur Hobby Pythonista
