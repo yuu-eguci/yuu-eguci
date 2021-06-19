@@ -7,9 +7,46 @@ yuu-eguci
 
 ## Portfolio web site
 
-https://portfolio.hitoren.net/
+[https://portfolio.hitoren.net/](https://portfolio.hitoren.net/)
 
-[![](https://user-images.githubusercontent.com/28250432/87242761-9397d480-c46a-11ea-8ed4-bbe31ee21c28.png)](https://portfolio.hitoren.net/)
+[![ptf](assets/ptf-header.jpg)](https://portfolio.hitoren.net/)
+
+## My recent projects
+
+### 🌻 flower-stuff
+
+- [https://github.com/yuu-eguci/flower-stuff-lab](https://github.com/yuu-eguci/flower-stuff-lab)
+- `python3` `machine-learning` `keras` `image-recognition` `deep-learning` `joint-development`
+- with [@ayano1212](https://github.com/ayano1212) and [@goodluckpenpen](https://github.com/goodluckpenpen)
+
+[![flower-stuff](assets/flower-stuff-header.jpg)](https://github.com/yuu-eguci/flower-stuff-lab)
+
+![oreilly-deep-learning](assets/oreilly-deep-learning.jpg)
+
+![neural-network-note](assets/neural-network-note.jpg)
+
+### 🏇 G1-point
+
+- [https://github.com/python-mate/G1-point](https://github.com/python-mate/G1-point)
+- `python3` `web-scraping` `line-bot` `ci-cd` `spread-sheet`
+- with [@REDpapa](https://github.com/REDpapa)
+
+[![g1-point](assets/g1-point.jpg)](https://github.com/python-mate/G1-point)
+
+### 📈 Shuumulator project
+
+- [https://github.com/yuu-eguci/Shuumulator](https://github.com/yuu-eguci/Shuumulator)
+- `python3` `web-scraping` `vue.js` `ci-cd` `stock-simulator` `django`
+
+[![shuumulator](assets/shuumulator.jpg)](https://github.com/yuu-eguci/Shuumulator)
+
+## My recent reading
+
+![deep-learning](assets/thumbnail-deep-learning.jpg)
+
+![effective-python](assets/thumbnail-effective-python.jpg)
+
+![intro-to-python](assets/thumbnail-intro-to-python.jpg)
 
 ---
 
