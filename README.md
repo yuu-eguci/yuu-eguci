@@ -42,11 +42,7 @@ yuu-eguci
 
 ## My recent reading
 
-![deep-learning](assets/thumbnail-deep-learning.jpg)
-
-![effective-python](assets/thumbnail-effective-python.jpg)
-
-![intro-to-python](assets/thumbnail-intro-to-python.jpg)
+![deep-learning](assets/thumbnail-deep-learning.jpg) ![effective-python](assets/thumbnail-effective-python.jpg) ![intro-to-python](assets/thumbnail-intro-to-python.jpg)
 
 ---
 
