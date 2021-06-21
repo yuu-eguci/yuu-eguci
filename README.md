@@ -44,6 +44,12 @@ yuu-eguci
 
 ![deep-learning](assets/thumbnail-deep-learning.jpg) ![effective-python](assets/thumbnail-effective-python.jpg) ![intro-to-python](assets/thumbnail-intro-to-python.jpg)
 
+## My artworks
+
+Go to [my website](https://portfolio.hitoren.net/) to take a look at other works.
+
+![artwork-artwork-book](assets/artwork-artwork-book.jpg) ![artwork-philogic-english](assets/artwork-philogic-english.jpg) ![artwork-horse](assets/artwork-horse.jpg) ![artwork-keichou-kenkyo](assets/artwork-keichou-kenkyo.jpg) ![artwork-house-box](assets/artwork-house-box.jpg)
+
 ---
 
 [![GitHub](https://img.shields.io/github/license/yuu-eguci/yuu-eguci?style=for-the-badge)](https://github.com/yuu-eguci/yuu-eguci/blob/master/LICENSE)
