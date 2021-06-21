@@ -40,15 +40,19 @@ yuu-eguci
 
 [![shuumulator](assets/shuumulator.jpg)](https://github.com/yuu-eguci/Shuumulator)
 
-## My recent reading
+## Recent reading
 
 ![deep-learning](assets/thumbnail-deep-learning.jpg) ![effective-python](assets/thumbnail-effective-python.jpg) ![intro-to-python](assets/thumbnail-intro-to-python.jpg)
 
-## My artworks
+## Artworks
 
 Other works are in [my website](https://portfolio.hitoren.net/); "artwork" content!
 
 ![artwork-artwork-book](assets/artwork-artwork-book.jpg) ![artwork-philogic-english](assets/artwork-philogic-english.jpg) ![artwork-horse](assets/artwork-horse.jpg) ![artwork-keichou-kenkyo](assets/artwork-keichou-kenkyo.jpg) ![artwork-house-box](assets/artwork-house-box.jpg)
+
+## Guitar play
+
+[![guitar-play](assets/guitar-play.jpg)](https://www.youtube.com/watch?v=k1PTT-dIQUc)
 
 ---
 
