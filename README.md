@@ -52,6 +52,8 @@ Other works are in [my website](https://portfolio.hitoren.net/); "artwork" conte
 
 ## Guitar play
 
+[https://www.youtube.com/watch?v=k1PTT-dIQUc](https://www.youtube.com/watch?v=k1PTT-dIQUc)
+
 [![guitar-play](assets/guitar-play.jpg)](https://www.youtube.com/watch?v=k1PTT-dIQUc)
 
 ---
