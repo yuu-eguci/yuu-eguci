@@ -11,7 +11,7 @@ yuu-eguci
 
 [![ptf](assets/ptf-header.jpg)](https://portfolio.hitoren.net/)
 
-## My recent projects
+## Recent projects
 
 ### 🌻 flower-stuff
 
