@@ -46,7 +46,7 @@ yuu-eguci
 
 ## My artworks
 
-Go to [my website](https://portfolio.hitoren.net/) to take a look at other works.
+Other works are in [my website](https://portfolio.hitoren.net/); "artwork" content!
 
 ![artwork-artwork-book](assets/artwork-artwork-book.jpg) ![artwork-philogic-english](assets/artwork-philogic-english.jpg) ![artwork-horse](assets/artwork-horse.jpg) ![artwork-keichou-kenkyo](assets/artwork-keichou-kenkyo.jpg) ![artwork-house-box](assets/artwork-house-box.jpg)
 
