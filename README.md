@@ -23,7 +23,7 @@ yuu-eguci
 
 ![oreilly-deep-learning](assets/oreilly-deep-learning.jpg)
 
-![neural-network-note](assets/neural-network-note.jpg)
+![deep-learning-mandala](https://user-images.githubusercontent.com/28250432/123369331-8828b500-d5b8-11eb-9dde-0507122610f8.jpg)
 
 ### 🏇 G1-point
 
