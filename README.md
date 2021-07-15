@@ -19,11 +19,9 @@ yuu-eguci
 - `python3` `machine-learning` `keras` `image-recognition` `deep-learning` `joint-development`
 - with [@ayano1212](https://github.com/ayano1212) and [@goodluckpenpen](https://github.com/goodluckpenpen)
 
-[![flower-stuff](assets/flower-stuff-header.jpg)](https://github.com/yuu-eguci/flower-stuff-lab)
+[![flower-stuff-description](assets/flower-stuff-header.jpg)](https://github.com/yuu-eguci/flower-stuff-lab)
 
-![oreilly-deep-learning](assets/oreilly-deep-learning.jpg)
-
-![deep-learning-mandala](https://user-images.githubusercontent.com/28250432/123369331-8828b500-d5b8-11eb-9dde-0507122610f8.jpg)
+![flower-stuff-project main image](https://user-images.githubusercontent.com/28250432/125736317-740cd173-d30c-4e55-ab4a-765182601558.jpg)
 
 ### 🏇 G1-point
 
