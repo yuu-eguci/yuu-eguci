@@ -13,6 +13,13 @@ yuu-eguci
 
 ## Recent projects
 
+### 📷 flower-stuff-easy-web
+
+- [https://github.com/yuu-eguci/flower-stuff-easy-web-docker](https://github.com/yuu-eguci/flower-stuff-easy-web-docker)
+- `python3` `django` `vuejs` `docker` `github-actions` `github-pages` `azure-app-service` `ci-cd` `linux`
+
+![flower-stuff-easy-web トップ画像](https://user-images.githubusercontent.com/28250432/137093980-3fdaa06d-7bde-4d89-b65b-de49a2a0fe01.png)
+
 ### 🌻 flower-stuff
 
 - [https://github.com/python-mate/flower-stuff-lab](https://github.com/python-mate/flower-stuff-lab)
