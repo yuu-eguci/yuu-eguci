@@ -24,7 +24,7 @@ yuu-eguci
 
 - [https://github.com/python-mate/flower-stuff-lab](https://github.com/python-mate/flower-stuff-lab)
 - `python3` `machine-learning` `keras` `image-recognition` `deep-learning` `joint-development`
-- with [@ayano1212](https://github.com/ayano1212) and [@goodluckpenpen](https://github.com/goodluckpenpen)
+- with [@ayano1212](https://github.com/ayano1212) and [@SakamotoYuuhi](https://github.com/SakamotoYuuhi)
 
 ![flower-stuff-lab](https://user-images.githubusercontent.com/28250432/126898350-ff528452-826d-4e87-b0e5-fd2e38b923a1.png)
 
