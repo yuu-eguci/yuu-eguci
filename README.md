@@ -1,9 +1,15 @@
 yuu-eguci
 ===
 
-- 🇯🇵 駆け出しパイソニスタ
-- 🇬🇧 Amateur Hobby Pythonista
-- 🇷🇴 Pythonista Amator de Hobby
+- 🇯🇵 趣味パイソニスタ
+- 🇬🇧 Hobby Pythonista
+- 🇷🇴 Pythonista de Hobby
+
+## Favourite
+
+- 🐍 Python, Django
+- ✌️ JavaScript, TypeScript, Vue.js, Nuxt.js
+- :octocat: GitHub Actions, GitHub Pages, CI/CD
 
 ## Portfolio web site
 
