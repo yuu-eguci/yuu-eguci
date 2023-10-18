@@ -11,6 +11,7 @@ yuu-eguci
 - ✌️ JavaScript, TypeScript, Vue.js, Nuxt.js
 - 🐳 🐧 🍏 Docker, Linux, Mac
 - :octocat: GitHub Actions, GitHub Pages, CI/CD
+- 🐬 MySQL
 
 
 ## Portfolio web site
