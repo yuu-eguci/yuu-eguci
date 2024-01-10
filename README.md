@@ -5,14 +5,11 @@ yuu-eguci
 - 🇬🇧 Hobby Pythonista
 - 🇷🇴 Pythonista de Hobby
 
-## Favourite
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=yuu-eguci&show_icons=true&theme=vue-dark&count_private=true)
 
-- 🐍 Python, Django
-- ✌️ JavaScript, TypeScript, Vue.js, Nuxt.js
-- 🐳 🐧 🍏 Docker, Linux, Mac
-- :octocat: GitHub Actions, GitHub Pages, CI/CD
-- 🐬 MySQL
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=yuu-eguci&show_icons=true&theme=vue-dark&hide=Jupyter%20Notebook,CSS)
 
+\* Thanks: [anuraghazra](https://github.com/anuraghazra/github-readme-stats)
 
 ## Portfolio web site
 
