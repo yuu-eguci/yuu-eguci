@@ -5,11 +5,10 @@ yuu-eguci
 - 🇬🇧 Hobby Pythonista
 - 🇷🇴 Pythonista de Hobby
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=yuu-eguci&show_icons=true&theme=vue-dark&count_private=true)
-
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=yuu-eguci&show_icons=true&theme=vue-dark&hide=Jupyter%20Notebook,CSS)
-
-\* Thanks: [anuraghazra](https://github.com/anuraghazra/github-readme-stats)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuu-eguci&show_icons=true&theme=vue-dark&hide=Jupyter%20Notebook,CSS" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=yuu-eguci&show_icons=true&theme=vue-dark&count_private=true" />
+</p>
 
 ## Portfolio web site
 
