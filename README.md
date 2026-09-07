@@ -5,11 +5,6 @@ yuu-eguci
 - 🇬🇧 Hobby Pythonista
 - 🇷🇴 Pythonista de Hobby
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuu-eguci&show_icons=true&theme=vue-dark&hide=Jupyter%20Notebook,CSS" /> 
-  <img src="https://github-readme-stats.vercel.app/api?username=yuu-eguci&show_icons=true&theme=vue-dark&count_private=true" />
-</p>
-
 ## Portfolio web site
 
 [https://portfolio.hitoren.net/](https://portfolio.hitoren.net/)
