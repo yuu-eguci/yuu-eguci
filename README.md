@@ -10,7 +10,7 @@ yuu-eguci
 <!-- stats candidate: overall stats (GitHub Stats Extended) -->
 ### Overall
 
-[![yuu-eguci's GitHub stats](https://github-stats-extended.vercel.app/api?username=yuu-eguci&show_icons=true&theme=vue-dark&disable_animations=true)](https://github.com/stats-organization/github-stats-extended)
+[![yuu-eguci's GitHub stats](https://github-stats-extended.vercel.app/api?username=yuu-eguci&show_icons=true&theme=vue-dark&disable_animations=true&show=contributions,all_time_contribs,reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_authored,prs_commented,prs_reviewed,issues_authored,issues_commented)](https://github.com/stats-organization/github-stats-extended)
 <!-- /stats candidate -->
 
 <!-- stats candidate: top languages by code size (GitHub Stats Extended) -->
