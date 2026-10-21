@@ -7,7 +7,35 @@ yuu-eguci
 
 ## GitHub stats
 
-[![yuu-eguci's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuu-eguci&show_icons=true&theme=vue-dark&disable_animations=true)](https://github.com/anuraghazra/github-readme-stats)
+<!-- stats candidate: overall stats (GitHub Stats Extended) -->
+### Overall
+
+[![yuu-eguci's GitHub stats](https://github-stats-extended.vercel.app/api?username=yuu-eguci&show_icons=true&theme=vue-dark&disable_animations=true)](https://github.com/stats-organization/github-stats-extended)
+<!-- /stats candidate -->
+
+<!-- stats candidate: top languages by code size (GitHub Stats Extended) -->
+### Top languages
+
+[![yuu-eguci's top languages](https://github-stats-extended.vercel.app/api/top-langs/?username=yuu-eguci&layout=compact&theme=vue-dark&hide=jupyter%20notebook&disable_animations=true)](https://github.com/stats-organization/github-stats-extended)
+<!-- /stats candidate -->
+
+<!-- stats candidate: contribution streak (GitHub Readme Streak Stats) -->
+### Streak
+
+[![yuu-eguci's GitHub contribution streak](https://streak-stats.demolab.com/?user=yuu-eguci&theme=vue-dark&disable_animations=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
+<!-- /stats candidate -->
+
+<!-- stats candidate: profile details and contribution trend (GitHub Profile Summary Cards) -->
+### Profile summary
+
+[![yuu-eguci's GitHub profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuu-eguci&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<!-- /stats candidate -->
+
+<!-- stats candidate: top languages by commit (GitHub Profile Summary Cards) -->
+### Languages by commit
+
+[![yuu-eguci's top languages by commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yuu-eguci&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<!-- /stats candidate -->
 
 ## Portfolio web site
 
