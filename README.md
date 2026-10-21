@@ -7,17 +7,7 @@ yuu-eguci
 
 ## GitHub stats
 
-<!-- stats candidate: overall stats (GitHub Stats Extended) -->
-### Overall
-
-[![yuu-eguci's GitHub stats](https://github-stats-extended.vercel.app/api?username=yuu-eguci&show_icons=true&theme=vue-dark&disable_animations=true&include_all_commits=true&show=contributions,prs_merged_percentage&hide=stars,contribs)](https://github.com/stats-organization/github-stats-extended)
-<!-- /stats candidate -->
-
-<!-- stats candidate: top languages by code size (GitHub Stats Extended) -->
-### Top languages
-
-[![yuu-eguci's top languages](https://github-stats-extended.vercel.app/api/top-langs/?username=yuu-eguci&layout=compact&theme=vue-dark&hide=jupyter%20notebook&disable_animations=true)](https://github.com/stats-organization/github-stats-extended)
-<!-- /stats candidate -->
+[![yuu-eguci's GitHub stats](https://github-stats-extended.vercel.app/api?username=yuu-eguci&show_icons=true&theme=vue-dark&disable_animations=true&include_all_commits=true&show=contributions,prs_merged_percentage&hide=stars,contribs)](https://github.com/stats-organization/github-stats-extended) [![yuu-eguci's top languages](https://github-stats-extended.vercel.app/api/top-langs/?username=yuu-eguci&layout=compact&theme=vue-dark&hide=jupyter%20notebook&disable_animations=true)](https://github.com/stats-organization/github-stats-extended)
 
 ## Portfolio web site
 
