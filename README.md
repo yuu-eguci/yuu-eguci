@@ -5,6 +5,10 @@ yuu-eguci
 - 🇬🇧 Hobby Pythonista
 - 🇷🇴 Pythonista de Hobby
 
+## GitHub stats
+
+[![yuu-eguci's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuu-eguci&show_icons=true&theme=vue-dark&disable_animations=true)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Portfolio web site
 
 [https://portfolio.hitoren.net/](https://portfolio.hitoren.net/)
@@ -63,4 +67,4 @@ Other works are in [my website](https://portfolio.hitoren.net/); "artwork" conte
 
 [![GitHub](https://img.shields.io/github/license/yuu-eguci/yuu-eguci?style=for-the-badge)](https://github.com/yuu-eguci/yuu-eguci/blob/master/LICENSE)
 
-_This readme template is licensed under [WTFPL](http://www.wtfpl.net/)._
+_This readme template is licensed under [WTFPL](https://www.wtfpl.net/)._
