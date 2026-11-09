@@ -9,6 +9,18 @@ yuu-eguci
 
 [![yuu-eguci's GitHub stats](https://github-stats-extended.vercel.app/api?username=yuu-eguci&show_icons=true&theme=vue-dark&disable_animations=true&include_all_commits=true&show=contributions,prs_merged_percentage&hide=stars,contribs)](https://github.com/stats-organization/github-stats-extended) [![yuu-eguci's top languages](https://github-stats-extended.vercel.app/api/top-langs/?username=yuu-eguci&layout=compact&theme=vue-dark&hide=jupyter%20notebook&disable_animations=true)](https://github.com/stats-organization/github-stats-extended)
 
+## Eiken Grade 1
+
+- 一次試験79%
+    - リーディング:33/35
+    - リスニング:19/27
+    - 要約作文:16/32
+    - エッセイ作文:30/32
+- 二次試験75%
+    - スピーキング:30/40
+
+![eiken-grade-1](assets/eiken-grade-1.jpg)
+
 ## Portfolio web site
 
 [https://portfolio.hitoren.net/](https://portfolio.hitoren.net/)
