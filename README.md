@@ -15,6 +15,18 @@ yuu-eguci
 
 [![ptf](assets/ptf-header.jpg)](https://portfolio.hitoren.net/)
 
+## 英検1級
+
+- 一次試験79%
+    - リーディング:33/35
+    - リスニング:19/27
+    - 要約作文:16/32
+    - エッセイ作文:30/32
+- 二次試験75%
+    - スピーキング:30/40
+
+<img src="assets/eiken-grade-1.jpg" alt="eiken-grade-1" width="560">
+
 ## Recent projects
 
 ### 📷 flower-stuff-easy-web
@@ -46,18 +58,6 @@ yuu-eguci
 - `python3` `web-scraping` `vue.js` `ci-cd` `stock-simulator` `django`
 
 [![shuumulator](assets/shuumulator.jpg)](https://github.com/yuu-eguci/Shuumulator)
-
-## 英検1級
-
-- 一次試験79%
-    - リーディング:33/35
-    - リスニング:19/27
-    - 要約作文:16/32
-    - エッセイ作文:30/32
-- 二次試験75%
-    - スピーキング:30/40
-
-<img src="assets/eiken-grade-1.jpg" alt="eiken-grade-1" width="560">
 
 ## Artworks
 
